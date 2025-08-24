@@ -66,8 +66,5 @@ The dataset is too large to upload directly to GitHub. You can access it here:
 - Implement **Machine Learning** to predict crime occurrences.  
 - Add **geospatial analysis** using Folium/GeoPandas.  
 
----
-
-## 🤝 Contributing  
-Contributions are welcome! Please fork this repo and submit a pull request.  
+---  
 
