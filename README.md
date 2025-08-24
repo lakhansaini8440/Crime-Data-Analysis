@@ -71,7 +71,3 @@ The dataset is too large to upload directly to GitHub. You can access it here:
 ## 🤝 Contributing  
 Contributions are welcome! Please fork this repo and submit a pull request.  
 
----
-
-## 📜 License  
-This project is licensed under the MIT License.  
